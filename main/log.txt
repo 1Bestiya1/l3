@@ -1,0 +1,93 @@
+ - SUCCESS!
+ - Action selected:1
+ - Action: 2
+ - Nice!
+ - Action selected:1
+ - Пользователь выбрал действие: 1
+ - Added name: wert 
+ - (I dead) Added value: 400,000000
+ - Added lenght: 400,000000
+ - (I dead) Added value: 23,000000
+ - Added diametr: 23,000000
+ - Труба добавлена в систему. ID: 1
+ - Пользователь выбрал действие: 0
+ - Пользователь перешёл в 'Основное меню'
+ - Action selected:2
+ - Пользователь выбрал действие: 1
+ - The name of the CS has been entered: we
+ - (I dead) Added value: 12
+ - The user entered the total number of workshops: 12
+ - (I dead) Added value: 1
+ - The user entered the number of workshops: 12
+ - (I dead) Added value: 1,000000
+ - The user entered the efficiency percentage: 12%
+ - Компрессорная станция добавлена в систему. ID: 1
+ - Пользователь выбрал действие: 1
+ - The name of the CS has been entered: ew
+ - (I dead) Added value: 12
+ - The user entered the total number of workshops: 12
+ - (I dead) Added value: 1
+ - The user entered the number of workshops: 12
+ - (I dead) Added value: 1,000000
+ - The user entered the efficiency percentage: 12%
+ - Компрессорная станция добавлена в систему. ID: 2
+ - Пользователь выбрал действие: 0
+ - Пользователь перешёл в 'Основное меню'
+ - Action selected:6
+ - (I dead) Added value: 1
+ - (I dead) Added value: 2
+ - (I dead) Added value: 500
+ - Added name: yt
+ - (I dead) Added value: 500,000000
+ - Added lenght: 500,000000
+ - (I dead) Added value: 23,000000
+ - Added diametr: 23,000000
+ - Added name: er
+ - (I dead) Added value: 500,000000
+ - Added lenght: 500,000000
+ - (I dead) Added value: 100,000000
+ - Added diametr: 100,000000
+ - Added name: er
+ - (I dead) Added value: 500,000000
+ - Added lenght: 500,000000
+ - (I dead) Added value: 1,000000
+ - Added diametr: 1,000000
+ - Nice!
+ - Action selected:1
+ - Пользователь выбрал действие: 1
+ - Added name: wer
+ - (I dead) Added value: 500,000000
+ - Added lenght: 500,000000
+ - (I dead) Added value: 500,000000
+ - Added diametr: 500,000000
+ - Труба добавлена в систему. ID: 1
+ - Пользователь выбрал действие: 0
+ - Пользователь перешёл в 'Основное меню'
+ - Action selected:2
+ - Пользователь выбрал действие: 1
+ - The name of the CS has been entered: ty
+ - (I dead) Added value: 12
+ - The user entered the total number of workshops: 12
+ - (I dead) Added value: 2
+ - The user entered the number of workshops: 12
+ - (I dead) Added value: 23,000000
+ - The user entered the efficiency percentage: 12%
+ - Компрессорная станция добавлена в систему. ID: 1
+ - Пользователь выбрал действие: 1
+ - The name of the CS has been entered: f
+ - (I dead) Added value: 12
+ - The user entered the total number of workshops: 12
+ - (I dead) Added value: 2
+ - The user entered the number of workshops: 12
+ - (I dead) Added value: 23,000000
+ - The user entered the efficiency percentage: 12%
+ - Компрессорная станция добавлена в систему. ID: 2
+ - Пользователь выбрал действие: 0
+ - Пользователь перешёл в 'Основное меню'
+ - Action selected:6
+ - (I dead) Added value: 1
+ - (I dead) Added value: 2
+ - (I dead) Added value: 500
+ - Action selected:8
+ - Nice!
+ - Action selected:1
